@@ -1,7 +1,7 @@
 
 # DVD - Flavor Fusion
 
-Welcome to **"FlavorFusion"**, where I've already completed an exciting **"data visualization"** journey, uncovering the world of college students' food choices and preferences. 
+Welcome to **"FlavorFusion"**, where I've completed an exciting **"data visualization"** journey, uncovering the world of college students' food choices and preferences. 
 
 In this README, you'll find a concise reference to the project's *objectives, key questions & deliverables*. 
 
