@@ -13,8 +13,10 @@ Dive into FlavorFusion and explore the rich tapestry of tastes and tales I've di
 
 ## Relevant Links
 
-- **Power BI dashboard** : 
-https://app.powerbi.com/links/MVqkHd7ILY?ctid=35e8087e-75a7-4479-b528-df0fbbb7fc26&pbi_source=linkShare&bookmarkGuid=9adb7202-0049-49c1-88f2-b416349b30ce
+- **NovyPro** : https://www.novypro.com/project/flavor-fusion---uniting-tastes-and-tales--a-data-visualization-journey-power-bi
+
+- **Power BI dashboard** :
+  https://app.powerbi.com/view?r=eyJrIjoiNmFiMmQ1MDEtNTUwMi00ODQ2LTk1MmYtMDUyOWJjZGRlNDY1IiwidCI6ImY5NzI3NGE2LTNlYzctNDM0ZC05MWU5LTVhY2NlMmMyMGE5MiJ9
 
 - **Colab** : 
 https://colab.research.google.com/drive/1WN2lrRumt7TVRRpmTtkAZBRD377EVES3?usp=sharing
